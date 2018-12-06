@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* 深圳市静江网络科技有限公司 */
+*,*:before,*:after {-webkit-box-sizing:border-box; box-sizing:border-box;margin:0; padding:0;}
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust: 100%;}
+body{position:relative; font:14px/1 "Microsoft YaHei", Helvetica, sans-serif;color:#333;}
+input{border:none;}
+input,select,option,textarea{outline: none;}
+input[type="button"],button,select{cursor: pointer;border: none;outline: none;}
+textarea{outline: none;}
+ul,li,h1,h2,h3,h4,h5,h6{list-style-type:none;}
+img{border:none;}
+a{text-decoration:none; color:#666;}
+a:hover{text-decoration:none;}
+.clf{zoom:1}
+.clf:before,.clf:after,.w:before,.w:after{content:"";display:block;height:0;clear:both;visibility:hidden;}
+.fl{float: left;}
+.fr{float: right;}
+.w{width: 100%;max-width:1200px;margin: auto;}
+.w1024{width:100%;max-width:1024px;margin:auto;}
+@font-face { font-family:txts;src:url(../font/TTTieKaiJ.ttf);}
+@font-face { font-family:jqzy;src:url(../font/jqft.ttf);}
+@font-face { font-family:im;src:url(../font/impact.ttf);}
+@font-face { font-family:ar;src:url(../font/arial.ttf);}
+/* 初始化样式结束 */
+
+/*.header{padding:35px 0;}*/
+/*.header .logo{width:310px;height:33px;}*/
+/*.header .logo img{width:100%;height:100%;}*/
+/*.header .address{padding-top:5px;margin-left:20px;}*/
+/*.header .address span{font-size:20px;color:#666;}*/
+/*.header .address span:after{content:'';display:inline-block;width:18px;height:18px;background:url(../images/icon_1.png)no-repeat 100%;margin:0 10px;}*/
+/*.header .address a{font-size:16px;color:#f64914;}*/
+/*.header .tel{width:230px;height:45px;}*/
+/*.header .tel img{width:100%;height:100%;}*/
+
+/*.nav{width:100%;height:auto;background:#00448c;}*/
+/*.nav .fl a{font-size:25px;color:#fff;font-family:txts;line-height:48px;}*/
+/*.nav .fr li{float:left;}*/
+/*.nav .fr li a{display:block;padding:15px 25px;font-size:18px;color:#fff;line-height:18px;}*/
+/*.nav .fr li a:hover{background:#f64914;}*/
+
+.title{text-align: center;margin: 25px 0;}
+
+.footer{border-top: 1px solid #fff;padding: 36px 0 46px;}
+.footer img{display: block;margin: auto;}
+
+
+
+
+
+
+
+
+
